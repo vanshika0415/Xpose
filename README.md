@@ -27,4 +27,4 @@ Computer Vision: Drives the detection and evaluation process to ensure precision
 
 Machine Learning: Enables comparison of detected poses with reference poses and adjusts feedback dynamically based on individual performance.
 
-
+![image alt](https://github.com/vanshika0415/Xpose/blob/9095d89fbae0957334e3e48e783c19fe54ad5a49/output_image.jpg)
